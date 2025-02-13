@@ -14,7 +14,7 @@ const Contact = () => {
             </div>
             <div className="absolute right-20 bottom-16 w-[50%] md:w-[30%]">
                 <img
-                    src="/memoji.png"
+                    src="/Memoji.png"
                     alt="Contact Background"
                     className="w-full h-full object-cover rounded-full"
                 />
